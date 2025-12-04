@@ -1,4 +1,13 @@
-## Hi there 👋
+## Hi 👋, I'm Spencer!
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/spencer-goulette)
+[![Linkedin Badge](https://img.shields.io/badge/LeetCode-000000?style=flat-square&logo=LeetCode&logoColor=)](https://leetcode.com/u/spencergoulette)
+
+I am an electrical and computer engineer who loves learning how things work and solving problems. Those eureka moments that are felt when concepts click or challenges are conquered are what drives me in what I do. This is why I became an engineer, so I could use constantly evolving technologies to tackle problems.<br/><br/>
+My background is more of a signal processing and C/C++ software engineer &#128187;. However, I do dabble in other languages and areas. My GitHub shows some of the public projects that I have worked on over the years. <br/><br/>
+To get more of an idea of who I am and what I have done, check out the rest of the GitHub. It offers insight into the technologies that have fascinated me! Enjoy! &#128512; <br/><br/>
+
+![](https://komarev.com/ghpvc/?username=SpencerGoulette)
 
 <!--
 **SpencerGoulette/SpencerGoulette** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
